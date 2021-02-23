@@ -1,0 +1,16 @@
+[
+    {"name":"Rohan Das","age":18,"city":"Kolkata","language":"Python","framework":"Django","image":"https://randomuser.me/api/portraits/men/51.jpg"},
+    {"name":"Shubham Sharma","age":28,"city":"Bangalore","language":"JavaScript","framework":"Angular","image":"https://randomuser.me/api/portraits/men/54.jpg"},
+    {"name":"Camella Cabello","age":18,"city":"Kolkata","language":"Python","framework":"Django","image":"https://randomuser.me/api/portraits/women/55.jpg"},
+    {"name":"Aishwariya Rai","age":45,"city":"Mumbai","language":"Python","framework":"Flask","image":"https://randomuser.me/api/portraits/women/57.jpg"},
+    {"name":"Rohit Sharma","age":34,"city":"Jharkhand","language":"Go","framework":"Go Framework","image":"https://randomuser.me/api/portraits/men/35.jpg"},
+    {"name":"Paul Sharma","age":40,"city":"Nagpur","language":"Java","framework":"Django","image":"https://randomuser.me/api/portraits/men/61.jpg"},
+    {"name":"Purohit Bhattachary","age":41,"city":"Maleysia","language":"C","framework":"Node.js","image":"https://randomuser.me/api/portraits/men/50.jpg"},
+    {"name":"Prashant Dwivedi","age":25,"city":"Pune","language":"C#","framework":"Express","image":"https://randomuser.me/api/portraits/men/45.jpg"},
+    {"name":"Lalau Fernandes","age":41,"city":"Delhi","language":"Ruby","framework":"Go Framework","image":"https://randomuser.me/api/portraits/men/20.jpg"},
+    {"name":"Ramesh Aderson","age":38,"city":"Anduslavia","language":"Ruby-Rail","framework":"Flask","image":"https://randomuser.me/api/portraits/men/74.jpg"},
+    {"name":"Alex Pal","age":34,"city":"Chusul","language":"Go","framework":"C++ Framework","image":"https://randomuser.me/api/portraits/men/10.jpg"},
+    {"name":"James Bin Mohammad","age":74,"city":"Spiti","language":"R","framework":" Framework","image":"https://randomuser.me/api/portraits/men/41.jpg"},
+    {"name":"Aniket Jha","age":22,"city":"Ladhak","language":"Swift","framework":"Django","image":"https://randomuser.me/api/portraits/men/40.jpg"},
+    {"name":"Katrina Kaif","age":47,"city":"Gonda","language":"Python","framework":"Wordpress","image":"https://randomuser.me/api/portraits/men/52.jpg"}
+]
