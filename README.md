@@ -1,2 +1,2 @@
 # first
-This is the project for understanding how github work
+This is simple project which uses the Javascript to scan over the different CV's available
